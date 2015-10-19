@@ -23,7 +23,7 @@ gem 'jbuilder', '~> 2.0'
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0', group: :doc
 
-
+gem 'foreman'
 gem 'puma', '~> 2.14.0'
 gem 'redis-rails', '~>4.0.0'
 gem 'redis-namespace', '~>1.5.2'

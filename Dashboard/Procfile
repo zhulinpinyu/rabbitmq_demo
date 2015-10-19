@@ -1,0 +1,2 @@
+Dashboard: rails s -p 3001
+Worker: WORKERS=PostsWorker rake sneakers:run
