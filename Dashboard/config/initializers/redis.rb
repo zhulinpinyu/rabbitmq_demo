@@ -1,0 +1,1 @@
+$redis = Redis::Namespace.new("dashboard:#{Rails.env}", redis: Redis.new(host: "192.168.99.100"))
